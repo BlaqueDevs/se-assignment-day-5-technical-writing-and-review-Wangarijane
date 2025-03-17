@@ -685,3 +685,6 @@ A weather forecasting app that provides real-time weather updates based on your 
 - Current weather updates and forecasts  
 - Custom alerts for severe weather  
 - User-friendly interface with easy navigation
+
+
+**NOTE: I used ChatGpt to do my research and other sources such as google to understand the insights into the concepts**
